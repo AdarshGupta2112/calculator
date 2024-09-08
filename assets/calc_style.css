@@ -55,7 +55,7 @@ button {
     font-weight:bold;
     font-size: 3vh;
     color: white;
-    background-color: #de1212;
+    background-color: #781313;
     border-radius: 50%;
     border: 1px solid #333333;
 }
@@ -83,4 +83,9 @@ button:hover {
 #equal_sign {
     width: 100%;
     border-radius: 15px;
+}
+
+img{
+    height: 600px;
+    width: 1200px;
 }
